@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'mpavoz-poc'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7107d2a7cab344d699080710a22de5d9 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6eaa9cb0e17e4d7cbb53ba953520e4f6 }}
         package: .
